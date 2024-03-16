@@ -99,8 +99,3 @@ Contributions are welcome! Please follow these steps to contribute to the projec
    
 
 5. Create a pull request to the main repository.
-
-## Contact
-
-1. [GITHUB](https://github.com/Ananya01Agrawal)
-2. [LINKEDIN](https://www.linkedin.com/in/ananya-agrawal-9727b2230/)
